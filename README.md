@@ -4,5 +4,7 @@
 
 https://user-images.githubusercontent.com/114215046/212525954-84323cf7-da10-4c1c-846f-5a97de44cf30.mp4
 
-
+## This search bar may be a Product search bar in Online Shoping platform like Flipkart ,Amazon like as.
+## This may be a Brower search over the Internet to that Brower's Server.
+## This may be access the same application data from there or can access from other one.
 
